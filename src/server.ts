@@ -4,7 +4,7 @@ import config from './config';
 
 
 async function bootstrap() {
-    // This variable will hold our server instance
+    // This variable will hold our server instances
     let server: Server;
 
     try {
